@@ -45,7 +45,6 @@ class DisableMultishippingTest extends TestCase
      * Test 'execute' method if 'MultiShipping' mode is enabled.
      *
      * @param bool $hasShippingAssignments
-     *
      * @return void
      * @dataProvider executeWithMultishippingModeEnabledDataProvider
      */
